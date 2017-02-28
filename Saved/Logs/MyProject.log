@@ -8068,4 +8068,29 @@ LogInit: Object subsystem initialized
 [2017.02.28-10.38.47:048][923]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
 [2017.02.28-10.38.47:056][924]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
 [2017.02.28-10.38.47:065][925]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
-[2017.02.28-10.38.47:073][926]PIE:Warning: Wa
+[2017.02.28-10.38.47:073][926]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:081][927]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:089][928]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:098][929]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:106][930]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:115][931]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:123][932]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:131][933]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:140][934]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:148][935]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:156][936]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:165][937]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:173][938]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:181][939]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:189][940]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:198][941]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:206][942]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:215][943]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:223][944]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:231][945]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:240][946]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:248][947]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.47:256][948]PIE:Warning: Warning Mobility of testPillar_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2017.02.28-10.38.51:366][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_1_Tut.Level_1_Tut:PersistentLevel' has LevelScriptBlueprint '/Game/Level_1_Tut.Level_1_Tut:PersistentLevel.Level_1_Tut' with GeneratedClass '/Game/Level_1_Tut.Level_1_Tut_C' with ClassGeneratedBy '/Game/Level_1_Tut.Level_1_Tut:PersistentLevel.Level_1_Tut'
+[2017.02.28-10.38.51:424][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_1_Tut.Level_1_Tut:PersistentLevel' has LevelScriptBlueprint '/Game/Level_1_Tut.Level_1_Tut:PersistentLevel.Level_1_Tut' with GeneratedClass '/Game/Level_1_Tut.Level_1_Tut_C' with ClassGeneratedBy '/Game/Level_1_Tut.Level_1_Tut:PersistentLevel.Level_1_Tut'
+[2017.02.28-10.39.16:935][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_Tut" FILE="../../../../../../Users/q5059907/Desktop/Journeyman-Team-9/Saved/Autosa
